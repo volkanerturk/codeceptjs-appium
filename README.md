@@ -1,5 +1,5 @@
 ## Codeceptjs-Appium project
 
-install
+> https://www.momentumsuite.com/software-testing/appium-tests-with-codeceptjs/
 
-    npm install
+*Yazısında bahsettiğim örnek login testinin kodları*
